@@ -1,6 +1,6 @@
 // Importing Roast & Compliment Data
-import { roasts } from './roast.js';
-import { compliments } from './compliment.js';
+import { roasts } from 'https://thompson-ace-daniel.github.io/rgb-ai-modules/roast.js';
+import { compliments } from 'https://thompson-ace-daniel.github.io/rgb-ai-modules/compliment.js';
 
 // DOM Elements
 const nameInput = document.getElementById("nameInput");
